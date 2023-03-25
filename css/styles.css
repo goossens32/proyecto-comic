@@ -30,7 +30,7 @@ header {
 header .logo{
     display: flex;
     align-items: center;
-    width: 30%;
+    width: 40%;
     margin-left: 2rem;
 }
 .logo h1{
@@ -49,17 +49,23 @@ header .nav-menu{
     padding: .5rem 1rem;
     border-radius: 10px;
 }
-.nav-menu .fa-solid{
+.nav-menu .fa-moon, .fa-sun{
     color: white;
-    font-size: 1.5rem;
 }
 
 .fa-moon, .fa-sun, .fa-music{
     margin-right: 2rem;
+    font-size: 1.5rem;
 }
+
 .fa-moon, .fa-sun, .fa-music:hover{
     cursor: pointer;
 }
+
+/* Cuando se reproduce audio cambia de estilo de pause a play */
+.pause {color: white; transition: .2s ease;}
+.play {color: #8f311c; transition: .2s ease;}
+
 select{
     padding: .2rem .6rem;
     background-color: white;
