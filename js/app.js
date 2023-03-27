@@ -2,7 +2,7 @@ const nightModeBtn = document.querySelector('#dark-mode-btn');
 const audioBtn = document.querySelector('.fa-music, .pause');
 
 const audioPlayer = () => {
-    // Se coge selector de audio en HTML
+    // Selector de audio en index.html
     const audio = document.querySelector('#audio');
         // Si el audio está pausado (por defecto lo está) se reproduce y cambia de estilo de pause a play
         if (audio.paused) {
