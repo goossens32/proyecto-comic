@@ -3,7 +3,7 @@
     2. git remote add origin "link"
     3. git pull origin master
 
-- Antes de comenzar a trabajar después de a primera descarga, es importante redescargar el archivo por si alguien a hecho algún cambio.
+- Antes de comenzar a trabajar después de la primera descarga, es importante redescargar el archivo por si alguien a hecho algún cambio.
     1. git pull
 
 - El primer push que se haga desde un nuevo dispositivo debe ser con "origin master".

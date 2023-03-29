@@ -14,7 +14,7 @@
     background-color: rgb(59, 56, 56);
 }
 body{
-    transition: background 0.5s;
+    transition: background 0.3s;
 }
 
 /* HEADER STYLES */
