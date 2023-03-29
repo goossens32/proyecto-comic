@@ -30,7 +30,7 @@ header {
 header .logo{
     display: flex;
     align-items: center;
-    width: 40%;
+    width: 50%;
     margin-left: 2rem;
 }
 .logo h1{
