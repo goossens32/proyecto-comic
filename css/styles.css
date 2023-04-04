@@ -1,0 +1,76 @@
+/* Import de font-awesome */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css');
+/* Import de fuente local para logo */
+@font-face {
+    font-family: 'happy';
+    src: url(../fonts/KGHAPPY.ttf);
+}
+
+
+*{margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; box-sizing: border-box;}
+
+/* DARK MODE STYLES */
+.dark{
+    background-color: rgb(59, 56, 56);
+}
+body{
+    transition: background 0.3s;
+}
+
+/* HEADER STYLES */
+/* ------------------------------------------------------------- */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5rem 0;
+    background-color: #da4b2a;
+    border-bottom: 5px solid #ff603d;
+}
+header .logo{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    margin-left: 2rem;
+}
+.logo h1{
+    padding-left: 1rem;
+    color: rgb(255, 255, 255);
+    font: normal 42px 'happy';
+    letter-spacing: .4rem;
+}
+header .nav-menu{
+    width: 260px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #ff603d;
+    margin-right: 2rem;
+    padding: .5rem 1rem;
+    border-radius: 10px;
+}
+.nav-menu .fa-moon, .fa-sun{
+    color: white;
+}
+
+.fa-moon, .fa-sun, .fa-music{
+    margin-right: 2rem;
+    font-size: 1.5rem;
+}
+
+.fa-moon, .fa-sun, .fa-music:hover{
+    cursor: pointer;
+}
+
+/* Cuando se reproduce audio cambia de estilo de pause a play */
+.pause {color: white; transition: .2s ease;}
+.play {color: #8f311c; transition: .2s ease;}
+
+select{
+    padding: .2rem .6rem;
+    background-color: white;
+    border: none;
+}
+select:hover{
+    cursor: pointer;
+}
