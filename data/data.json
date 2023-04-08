@@ -1,0 +1,1235 @@
+[
+    {
+        "idiomaID": "ES",
+        "titulo": "Revenant",
+        "paginas": [
+            {
+                "paginaID": 1,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/01/01.jpg",
+                        "texto": "Hoy en dia las cosas se han puesto realmente difíciles, y uno tiene que recurrir a ciertos trabajos para poder sobrevivir."
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/01/02.jpg",
+                        "texto": "Realmente no tengo nada personal contra nadie."
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/01/03.jpg",
+                        "texto": "Simplemente, hago pequeños trabajos para personas que pagan realmente bien."
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/01/04.jpg",
+                        "texto": "TV: Los protestantes han causado revuelo, debido a que Hammond Robotics sigue sin hacer caso a las protestas controversiales, dirigidas a su trabajo del programa de simulación."
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/01/05.jpg",
+                        "texto": "Huh, tonterías."
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/01/06.jpg",
+                        "texto": "NUEVO MENSAJE"
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/01/07.jpg",
+                        "texto": "Otro dia, otro trabajo"
+                    }
+                ]
+            },
+            {
+                "paginaID": 2,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/02/01.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/02/02.jpg",
+                        "texto": "¡Mira quien ha llegado!"
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/02/03.jpg",
+                        "texto": "¡Papi!"
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/02/04.jpg",
+                        "texto": "Cuánto me alegro de verte cielo!"
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/02/05.jpg",
+                        "texto": "A toda mi familia, asegurarse del futuro es mi legado, y yo me encargaré de protegeros"
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/02/06.jpg",
+                        "texto": "¡Mi amor!, por nuestra hija"
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/02/07.jpg",
+                        "texto": "Por cierto cielo, te he traído un regalo"
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/02/08.jpg",
+                        "texto": "Espero que te guste"
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/02/09.jpg",
+                        "texto": "¡Gracias papi!"
+                    }
+                ]
+            },
+            {
+                "paginaID": 3,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/03/01.jpg",
+                        "texto": "RASTREANDO"
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/03/02.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/03/03.jpg",
+                        "texto": "Objetivo localizado, ELIMINAR"
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/03/04.jpg",
+                        "texto": "Mantengan la calma"
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/03/05.jpg",
+                        "texto": "*Gritos de fondo*"
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/03/06.jpg",
+                        "texto": "Vosotros dos, ¡ACABAD CON EL!"
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/03/07.jpg",
+                        "texto": "AHHHHH!!!"
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/03/08.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/03/09.jpg",
+                        "texto": "UGHHHH!!!!"
+                    },
+                    {
+                        "viñetaID": 10,
+                        "img": "./img/03/010.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 11,
+                        "img": "./img/03/011.jpg",
+                        "texto": "Cariño huyamos!"
+                    }
+                ]
+            },
+            {
+                "paginaID": 4,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/04/01.jpg",
+                        "texto": "*Gritos de pánico*"
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/04/02.jpg",
+                        "texto": "AAAAGGGGHHHH!!!"
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/04/03.jpg",
+                        "texto": "CORRED"
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/04/04.jpg",
+                        "texto": "Detenedlo, que no se acerque al jefe"
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/04/05.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/04/06.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/04/07.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/04/08.jpg",
+                        "texto": "Escoltarlas fuera de aquí, y que no se acerque nadie"
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/04/09.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 10,
+                        "img": "./img/04/010.jpg",
+                        "texto": "AYUDAAA, ME VA A MATAR!!!"
+                    },
+                    {
+                        "viñetaID": 11,
+                        "img": "./img/04/011.jpg",
+                        "texto": "¿Qué coño es esa cosa?"
+                    }
+                ]
+            },
+            {
+                "paginaID": 5,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/05/01.jpg",
+                        "texto": "TENEMOS QUE PARARLO!!!"
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/05/02.jpg",
+                        "texto": "TOMA ESTO!!!"
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/05/03.jpg",
+                        "texto": "Vete al infierno"
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/05/04.jpg",
+                        "texto": "Cielo tienes que irte de aquí, rápido"
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/05/05.jpg",
+                        "texto": "Tengo un mal presentimiento"
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/05/06.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/05/07.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/05/08.jpg",
+                        "texto": "OYE TÚ!!"
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/05/09.jpg",
+                        "texto": "MUERE!!!"
+                    },
+                    {
+                        "viñetaID": 10,
+                        "img": "./img/05/010.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 11,
+                        "img": "./img/05/011.jpg",
+                        "texto": "Oh mierda"
+                    },
+                    {
+                        "viñetaID": 12,
+                        "img": "./img/05/012.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 13,
+                        "img": "./img/05/013.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 14,
+                        "img": "./img/05/014.jpg",
+                        "texto": "MAMAAA!!!!"
+                    }
+                ]
+            },
+            {
+                "paginaID": 6,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/06/01.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/06/02.jpg",
+                        "texto": "CIELO, TIENES QUE SALIR DE AQUÍ YA!!"
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/06/03.jpg",
+                        "texto": "Iré a buscarte, te lo prometo"
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/06/04.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/06/05.jpg",
+                        "texto": "CABRÓN!!!"
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/06/06.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/06/07.jpg",
+                        "texto": "¿Qué demonios eres?"
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/06/08.jpg",
+                        "texto": "LA MUERTE"
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/06/09.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 10,
+                        "img": "./img/06/010.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 11,
+                        "img": "./img/06/011.jpg",
+                        "texto": "Objetivo ELIMINADO"
+                    }
+                ]
+            },
+            {
+                "paginaID": 7,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/07/01.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/07/02.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/07/03.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/07/04.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/07/05.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/07/06.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/07/07.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/07/08.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/07/09.jpg",
+                        "texto": "Mi madre a muerto"
+                    },
+                    {
+                        "viñetaID": 10,
+                        "img": "./img/07/010.jpg",
+                        "texto": "Mi padre también"
+                    },
+                    {
+                        "viñetaID": 11,
+                        "img": "./img/07/011.jpg",
+                        "texto": "¡ME VENGARÉ!!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "idiomaID": "CAT",
+        "titulo": "Revenant",
+        "paginas": [
+            {
+                "paginaID": 1,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/01/01.jpg",
+                        "texto": "Avui dia les coses s'han posat realment difícils, i un ha de recórrer a certes feines per poder sobreviure."
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/01/02.jpg",
+                        "texto": "Realment no tinc res personal en contra de ningú"
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/01/03.jpg",
+                        "texto": "Simplement, faig petites feines per a persones que paguen realment bé."
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/01/04.jpg",
+                        "texto": "TV: Els protestants han causat enrenou, ja que Hammond Robotics segueix sense fer cas a les protestes controversials, dirigides a la seva feina del programa de simulació."
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/01/05.jpg",
+                        "texto": "Huh, tonteries."
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/01/06.jpg",
+                        "texto": "NOU MISSATGE"
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/01/07.jpg",
+                        "texto": "Un altre dia, una altra feina"
+                    }
+                ]
+            },
+            {
+                "paginaID": 2,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/02/01.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/02/02.jpg",
+                        "texto": "Mira qui ha arribat!"
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/02/03.jpg",
+                        "texto": "Pare!"
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/02/04.jpg",
+                        "texto": "Com m'alegro de veure't cel!"
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/02/05.jpg",
+                        "texto": "A tota la meva família, assegurar-me del futur és el meu llegat, i jo m'encarregaré de protegir-vos"
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/02/06.jpg",
+                        "texto": "El meu amor!, per la nostra filla"
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/02/07.jpg",
+                        "texto": "Per cert cel, t'he portat un regal"
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/02/08.jpg",
+                        "texto": "Espero que t'agradi"
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/02/09.jpg",
+                        "texto": "Gràcies papi!"
+                    }
+                ]
+            },
+            {
+                "paginaID": 3,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/03/01.jpg",
+                        "texto": "RASTREJANT"
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/03/02.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/03/03.jpg",
+                        "texto": "Objectiu localitzat, ELIMINAR"
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/03/04.jpg",
+                        "texto": "Mantingueu la calma"
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/03/05.jpg",
+                        "texto": "*Crits de fons*"
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/03/06.jpg",
+                        "texto": "Vosaltres dos, ACABEU AMB ELL!"
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/03/07.jpg",
+                        "texto": "AHHHHH!!!"
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/03/08.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/03/09.jpg",
+                        "texto": "UGHHHH!!!!"
+                    },
+                    {
+                        "viñetaID": 10,
+                        "img": "./img/03/010.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 11,
+                        "img": "./img/03/011.jpg",
+                        "texto": "Amor meu, hem de fugir!"
+                    }
+                ]
+            },
+            {
+                "paginaID": 4,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/04/01.jpg",
+                        "texto": "*Crits de panic*"
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/04/02.jpg",
+                        "texto": "AAAAGGGGHHHH!!!"
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/04/03.jpg",
+                        "texto": "APARTEU-VOS"
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/04/04.jpg",
+                        "texto": "Atureu-lo, que no s'acosti al capità"
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/04/05.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/04/06.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/04/07.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/04/08.jpg",
+                        "texto": "Escolteu-les fora d'aquí, i que no s'acosti ningú"
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/04/09.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 10,
+                        "img": "./img/04/010.jpg",
+                        "texto": "AJUDAAA, EM MATARÀ!!!"
+                    },
+                    {
+                        "viñetaID": 11,
+                        "img": "./img/04/011.jpg",
+                        "texto": "Què és aquesta cosa?"
+                    }
+                ]
+            },
+            {
+                "paginaID": 5,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/05/01.jpg",
+                        "texto": "HEM DE ATURAR-HO!!!"
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/05/02.jpg",
+                        "texto": "AGAFA AIXÒ!!!"
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/05/03.jpg",
+                        "texto": "Vés-te'n a l'infern"
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/05/04.jpg",
+                        "texto": "Cel t'has d'anar d'aquí, ràpid"
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/05/05.jpg",
+                        "texto": "Tinc un mal pressentiment"
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/05/06.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/05/07.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/05/08.jpg",
+                        "texto": "ESCOLTA TU!!"
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/05/09.jpg",
+                        "texto": "MOR!!!"
+                    },
+                    {
+                        "viñetaID": 10,
+                        "img": "./img/05/010.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 11,
+                        "img": "./img/05/011.jpg",
+                        "texto": "Oh merda"
+                    },
+                    {
+                        "viñetaID": 12,
+                        "img": "./img/05/012.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 13,
+                        "img": "./img/05/013.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 14,
+                        "img": "./img/05/014.jpg",
+                        "texto": "MAMAAA!!!!"
+                    }
+                ]
+            },
+            {
+                "paginaID": 6,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/06/01.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/06/02.jpg",
+                        "texto": "CEL, HAS DE SORTIR D'AQUÍ JA!!"
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/06/03.jpg",
+                        "texto": "Aniré a cercar-te, t'ho prometo"
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/06/04.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/06/05.jpg",
+                        "texto": "CABRÓ!!!"
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/06/06.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/06/07.jpg",
+                        "texto": "Quin dimonis ets?"
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/06/08.jpg",
+                        "texto": "LA MORT"
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/06/09.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 10,
+                        "img": "./img/06/010.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 11,
+                        "img": "./img/06/011.jpg",
+                        "texto": "Objectiu ELIMINAT"
+                    }
+                ]
+            },
+            {
+                "paginaID": 7,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/07/01.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/07/02.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/07/03.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/07/04.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/07/05.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/07/06.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/07/07.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/07/08.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/07/09.jpg",
+                        "texto": "La meva mare a mort"
+                    },
+                    {
+                        "viñetaID": 10,
+                        "img": "./img/07/010.jpg",
+                        "texto": "El meu pare també"
+                    },
+                    {
+                        "viñetaID": 11,
+                        "img": "./img/07/011.jpg",
+                        "texto": "ME VENJARÉ!!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "idiomaID": "EN",
+        "titulo": "Revenant",
+        "paginas": [
+            {
+                "paginaID": 1,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/01/01.jpg",
+                        "texto": "Nowadays things have become really difficult, and one has to resort to certain jobs in order to survive."
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/01/02.jpg",
+                        "texto": "I don't really have nothing personal against anyone"
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/01/03.jpg",
+                        "texto": "I just do small jobs for people who pay really well."
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/01/04.jpg",
+                        "texto": "TV: The protesters have caused an uproar, as Hammond Robotics continues to ignore controversial protests, directed at its simulation program work."
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/01/05.jpg",
+                        "texto": "Huh, stupid things."
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/01/06.jpg",
+                        "texto": "NEW MESSAGE"
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/01/07.jpg",
+                        "texto": "Another day, another job"
+                    }
+                ]
+            },
+            {
+                "paginaID": 2,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/02/01.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/02/02.jpg",
+                        "texto": "Look who has arrived!"
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/02/03.jpg",
+                        "texto": "Daddy!"
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/02/04.jpg",
+                        "texto": "How glad I am to see you, honey!"
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/02/05.jpg",
+                        "texto": "To all my family, ensuring the future is my legacy, and I will take care of protecting you."
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/02/06.jpg",
+                        "texto": "My love!, for our daughter"
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/02/07.jpg",
+                        "texto": "By the way honey, I brought you a present"
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/02/08.jpg",
+                        "texto": "I hope you like it"
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/02/09.jpg",
+                        "texto": "Thanks daddy!"
+                    }
+                ]
+            },
+            {
+                "paginaID": 3,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/03/01.jpg",
+                        "texto": "TRACKING"
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/03/02.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/03/03.jpg",
+                        "texto": "Localized target, ELIMINATE"
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/03/04.jpg",
+                        "texto": "Keep calm!!"
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/03/05.jpg",
+                        "texto": "*Background screams*"
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/03/06.jpg",
+                        "texto": "You two, FINISH HIM!"
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/03/07.jpg",
+                        "texto": "AHHHHH!!!"
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/03/08.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/03/09.jpg",
+                        "texto": "UGHHHH!!!!"
+                    },
+                    {
+                        "viñetaID": 10,
+                        "img": "./img/03/010.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 11,
+                        "img": "./img/03/011.jpg",
+                        "texto": "Honey let's run away!"
+                    }
+                ]
+            },
+            {
+                "paginaID": 4,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/04/01.jpg",
+                        "texto": "*Panic screams*"
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/04/02.jpg",
+                        "texto": "AAAAGGGGHHHH!!!"
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/04/03.jpg",
+                        "texto": "RUUUN"
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/04/04.jpg",
+                        "texto": "Stop him, he don't have to get closer to the boss"
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/04/05.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/04/06.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/04/07.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/04/08.jpg",
+                        "texto": "Escort them out of here, and don't let anyone come closer"
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/04/09.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 10,
+                        "img": "./img/04/010.jpg",
+                        "texto": "HEEELP, IT'S GOING TO KILL ME!!!"
+                    },
+                    {
+                        "viñetaID": 11,
+                        "img": "./img/04/011.jpg",
+                        "texto": "What the hell is that thing?"
+                    }
+                ]
+            },
+            {
+                "paginaID": 5,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/05/01.jpg",
+                        "texto": "WE HAVE TO STOP HIM!!!"
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/05/02.jpg",
+                        "texto": "TAKE THIS!!!"
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/05/03.jpg",
+                        "texto": "See you in hell"
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/05/04.jpg",
+                        "texto": "Honey you have to get out of here, quick"
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/05/05.jpg",
+                        "texto": "I have a bad feeling"
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/05/06.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/05/07.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/05/08.jpg",
+                        "texto": "HEY YOU!!"
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/05/09.jpg",
+                        "texto": "DIEE!!!"
+                    },
+                    {
+                        "viñetaID": 10,
+                        "img": "./img/05/010.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 11,
+                        "img": "./img/05/011.jpg",
+                        "texto": "Oh shit"
+                    },
+                    {
+                        "viñetaID": 12,
+                        "img": "./img/05/012.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 13,
+                        "img": "./img/05/013.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 14,
+                        "img": "./img/05/014.jpg",
+                        "texto": "MAMAAA!!!!"
+                    }
+                ]
+            },
+            {
+                "paginaID": 6,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/06/01.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/06/02.jpg",
+                        "texto": "HONEY, YOU HAVE TO GET OUT OF HERE NOW!!"
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/06/03.jpg",
+                        "texto": "I'll go find you, I promise"
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/06/04.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/06/05.jpg",
+                        "texto": "BASTARD!!!"
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/06/06.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/06/07.jpg",
+                        "texto": "What the hell are you?"
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/06/08.jpg",
+                        "texto": "DEATH"
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/06/09.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 10,
+                        "img": "./img/06/010.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 11,
+                        "img": "./img/06/011.jpg",
+                        "texto": "Target ELIMINATED"
+                    }
+                ]
+            },
+            {
+                "paginaID": 7,
+                "imagenes": [
+                    {
+                        "viñetaID": 1,
+                        "img": "./img/07/01.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 2,
+                        "img": "./img/07/02.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 3,
+                        "img": "./img/07/03.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 4,
+                        "img": "./img/07/04.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 5,
+                        "img": "./img/07/05.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 6,
+                        "img": "./img/07/06.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 7,
+                        "img": "./img/07/07.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 8,
+                        "img": "./img/07/08.jpg",
+                        "texto": ""
+                    },
+                    {
+                        "viñetaID": 9,
+                        "img": "./img/07/09.jpg",
+                        "texto": "My mother is dead"
+                    },
+                    {
+                        "viñetaID": 10,
+                        "img": "./img/07/010.jpg",
+                        "texto": "My father too"
+                    },
+                    {
+                        "viñetaID": 11,
+                        "img": "./img/07/011.jpg",
+                        "texto": "I WILL TEKE VENGEANCE!!"
+                    }
+                ]
+            }
+        ]
+    }
+]
