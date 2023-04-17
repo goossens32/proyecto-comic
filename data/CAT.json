@@ -35,7 +35,7 @@
       {
         "viñetaID": 6,
         "img": "./img/01/06.jpg",
-        "posicion": "top-left",
+        "posicion": "top-right",
         "texto": "NOU MISSATGE"
       },
       {
@@ -76,7 +76,7 @@
       {
         "viñetaID": 5,
         "img": "./img/02/05.jpg",
-        "posicion": "top-left",
+        "posicion": "bottom-left",
         "texto": "A tota la meva família, assegurar-me del futur és el meu llegat, i jo m'encarregaré de protegir-vos"
       },
       {
@@ -88,7 +88,7 @@
       {
         "viñetaID": 7,
         "img": "./img/02/07.jpg",
-        "posicion": "top-left",
+        "posicion": "top-right",
         "texto": "Per cert cel, t'he portat un regal"
       },
       {
@@ -242,7 +242,7 @@
       {
         "viñetaID": 11,
         "img": "./img/04/011.jpg",
-        "posicion": "top-left",
+        "posicion": "bottom-left",
         "texto": "Què és aquesta cosa?"
       }
     ]
@@ -378,7 +378,7 @@
       {
         "viñetaID": 7,
         "img": "./img/06/07.jpg",
-        "posicion": "top-left",
+        "posicion": "top-right",
         "texto": "Quin dimonis ets?"
       },
       {

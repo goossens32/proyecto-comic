@@ -35,7 +35,7 @@
       {
         "viñetaID": 6,
         "img": "./img/01/06.jpg",
-        "posicion": "top-left",
+        "posicion": "top-right",
         "texto": "NEW MESSAGE"
       },
       {
@@ -76,7 +76,7 @@
       {
         "viñetaID": 5,
         "img": "./img/02/05.jpg",
-        "posicion": "top-left",
+        "posicion": "bottom-left",
         "texto": "To all my family, ensuring the future is my legacy, and I will take care of protecting you."
       },
       {
@@ -88,7 +88,7 @@
       {
         "viñetaID": 7,
         "img": "./img/02/07.jpg",
-        "posicion": "top-left",
+        "posicion": "top-right",
         "texto": "By the way honey, I brought you a present"
       },
       {
@@ -236,7 +236,7 @@
       {
         "viñetaID": 10,
         "img": "./img/04/010.jpg",
-        "posicion": "top-left",
+        "posicion": "bottom-left",
         "texto": "HEEELP, IT'S GOING TO KILL ME!!!"
       },
       {
@@ -378,7 +378,7 @@
       {
         "viñetaID": 7,
         "img": "./img/06/07.jpg",
-        "posicion": "top-left",
+        "posicion": "top-right",
         "texto": "What the hell are you?"
       },
       {

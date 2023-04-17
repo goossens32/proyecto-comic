@@ -35,7 +35,7 @@
       {
         "viñetaID": 6,
         "img": "./img/01/06.jpg",
-        "posicion": "top-left",
+        "posicion": "top-right",
         "texto": "NUEVO MENSAJE"
       },
       {
@@ -76,7 +76,7 @@
       {
         "viñetaID": 5,
         "img": "./img/02/05.jpg",
-        "posicion": "top-left",
+        "posicion": "bottom-left",
         "texto": "A toda mi familia, asegurarse del futuro es mi legado, y yo me encargaré de protegeros"
       },
       {
@@ -88,7 +88,7 @@
       {
         "viñetaID": 7,
         "img": "./img/02/07.jpg",
-        "posicion": "top-left",
+        "posicion": "top-right",
         "texto": "Por cierto cielo, te he traído un regalo"
       },
       {
@@ -242,7 +242,7 @@
       {
         "viñetaID": 11,
         "img": "./img/04/011.jpg",
-        "posicion": "top-left",
+        "posicion": "bottom-left",
         "texto": "¿Qué coño es esa cosa?"
       }
     ]
@@ -378,7 +378,7 @@
       {
         "viñetaID": 7,
         "img": "./img/06/07.jpg",
-        "posicion": "top-left",
+        "posicion": "top-right",
         "texto": "¿Qué demonios eres?"
       },
       {
