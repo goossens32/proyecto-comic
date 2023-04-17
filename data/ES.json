@@ -1,0 +1,481 @@
+[
+  {
+    "paginaID": 1,
+    "imagenes": [
+      {
+        "viñetaID": 1,
+        "img": "./img/01/01.jpg",
+        "posicion": "top-left",
+        "texto": "Hoy en dia las cosas se han puesto realmente difíciles, y uno tiene que recurrir a ciertos trabajos para poder sobrevivir."
+      },
+      {
+        "viñetaID": 2,
+        "img": "./img/01/02.jpg",
+        "posicion": "top-left",
+        "texto": "Realmente no tengo nada personal contra nadie."
+      },
+      {
+        "viñetaID": 3,
+        "img": "./img/01/03.jpg",
+        "posicion": "top-left",
+        "texto": "Simplemente, hago pequeños trabajos para personas que pagan realmente bien."
+      },
+      {
+        "viñetaID": 4,
+        "img": "./img/01/04.jpg",
+        "posicion": "top-left",
+        "texto": "TV: Los protestantes han causado revuelo, debido a que Hammond Robotics sigue sin hacer caso a las protestas controversiales, dirigidas a su trabajo del programa de simulación."
+      },
+      {
+        "viñetaID": 5,
+        "img": "./img/01/05.jpg",
+        "posicion": "top-left",
+        "texto": "Huh, tonterías."
+      },
+      {
+        "viñetaID": 6,
+        "img": "./img/01/06.jpg",
+        "posicion": "top-left",
+        "texto": "NUEVO MENSAJE"
+      },
+      {
+        "viñetaID": 7,
+        "img": "./img/01/07.jpg",
+        "posicion": "top-left",
+        "texto": "Otro dia, otro trabajo"
+      }
+    ]
+  },
+  {
+    "paginaID": 2,
+    "imagenes": [
+      {
+        "viñetaID": 1,
+        "img": "./img/02/01.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 2,
+        "img": "./img/02/02.jpg",
+        "posicion": "top-left",
+        "texto": "¡Mira quien ha llegado!"
+      },
+      {
+        "viñetaID": 3,
+        "img": "./img/02/03.jpg",
+        "posicion": "top-left",
+        "texto": "¡Papi!"
+      },
+      {
+        "viñetaID": 4,
+        "img": "./img/02/04.jpg",
+        "posicion": "top-left",
+        "texto": "Cuánto me alegro de verte cielo!"
+      },
+      {
+        "viñetaID": 5,
+        "img": "./img/02/05.jpg",
+        "posicion": "top-left",
+        "texto": "A toda mi familia, asegurarse del futuro es mi legado, y yo me encargaré de protegeros"
+      },
+      {
+        "viñetaID": 6,
+        "img": "./img/02/06.jpg",
+        "posicion": "top-left",
+        "texto": "¡Mi amor!, por nuestra hija"
+      },
+      {
+        "viñetaID": 7,
+        "img": "./img/02/07.jpg",
+        "posicion": "top-left",
+        "texto": "Por cierto cielo, te he traído un regalo"
+      },
+      {
+        "viñetaID": 8,
+        "img": "./img/02/08.jpg",
+        "posicion": "top-left",
+        "texto": "Espero que te guste"
+      },
+      {
+        "viñetaID": 9,
+        "img": "./img/02/09.jpg",
+        "posicion": "top-left",
+        "texto": "¡Gracias papi!"
+      }
+    ]
+  },
+  {
+    "paginaID": 3,
+    "imagenes": [
+      {
+        "viñetaID": 1,
+        "img": "./img/03/01.jpg",
+        "posicion": "top-left",
+        "texto": "RASTREANDO"
+      },
+      {
+        "viñetaID": 2,
+        "img": "./img/03/02.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 3,
+        "img": "./img/03/03.jpg",
+        "posicion": "top-left",
+        "texto": "Objetivo localizado, ELIMINAR"
+      },
+      {
+        "viñetaID": 4,
+        "img": "./img/03/04.jpg",
+        "posicion": "top-left",
+        "texto": "Mantengan la calma"
+      },
+      {
+        "viñetaID": 5,
+        "img": "./img/03/05.jpg",
+        "posicion": "top-left",
+        "texto": "*Gritos de fondo*"
+      },
+      {
+        "viñetaID": 6,
+        "img": "./img/03/06.jpg",
+        "posicion": "top-left",
+        "texto": "Vosotros dos, ¡ACABAD CON EL!"
+      },
+      {
+        "viñetaID": 7,
+        "img": "./img/03/07.jpg",
+        "posicion": "top-left",
+        "texto": "AHHHHH!!!"
+      },
+      {
+        "viñetaID": 8,
+        "img": "./img/03/08.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 9,
+        "img": "./img/03/09.jpg",
+        "posicion": "top-left",
+        "texto": "UGHHHH!!!!"
+      },
+      {
+        "viñetaID": 10,
+        "img": "./img/03/010.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 11,
+        "img": "./img/03/011.jpg",
+        "posicion": "top-left",
+        "texto": "Cariño huyamos!"
+      }
+    ]
+  },
+  {
+    "paginaID": 4,
+    "imagenes": [
+      {
+        "viñetaID": 1,
+        "img": "./img/04/01.jpg",
+        "posicion": "top-left",
+        "texto": "*Gritos de pánico*"
+      },
+      {
+        "viñetaID": 2,
+        "img": "./img/04/02.jpg",
+        "posicion": "top-left",
+        "texto": "AAAAGGGGHHHH!!!"
+      },
+      {
+        "viñetaID": 3,
+        "img": "./img/04/03.jpg",
+        "posicion": "top-left",
+        "texto": "CORRED"
+      },
+      {
+        "viñetaID": 4,
+        "img": "./img/04/04.jpg",
+        "posicion": "top-left",
+        "texto": "Detenedlo, que no se acerque al jefe"
+      },
+      {
+        "viñetaID": 5,
+        "img": "./img/04/05.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 6,
+        "img": "./img/04/06.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 7,
+        "img": "./img/04/07.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 8,
+        "img": "./img/04/08.jpg",
+        "posicion": "top-left",
+        "texto": "Escoltarlas fuera de aquí, y que no se acerque nadie"
+      },
+      {
+        "viñetaID": 9,
+        "img": "./img/04/09.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 10,
+        "img": "./img/04/010.jpg",
+        "posicion": "top-left",
+        "texto": "AYUDAAA, ME VA A MATAR!!!"
+      },
+      {
+        "viñetaID": 11,
+        "img": "./img/04/011.jpg",
+        "posicion": "top-left",
+        "texto": "¿Qué coño es esa cosa?"
+      }
+    ]
+  },
+  {
+    "paginaID": 5,
+    "imagenes": [
+      {
+        "viñetaID": 1,
+        "img": "./img/05/01.jpg",
+        "posicion": "top-left",
+        "texto": "TENEMOS QUE PARARLO!!!"
+      },
+      {
+        "viñetaID": 2,
+        "img": "./img/05/02.jpg",
+        "posicion": "top-left",
+        "texto": "TOMA ESTO!!!"
+      },
+      {
+        "viñetaID": 3,
+        "img": "./img/05/03.jpg",
+        "posicion": "top-left",
+        "texto": "Vete al infierno"
+      },
+      {
+        "viñetaID": 4,
+        "img": "./img/05/04.jpg",
+        "posicion": "top-left",
+        "texto": "Cielo tienes que irte de aquí, rápido"
+      },
+      {
+        "viñetaID": 5,
+        "img": "./img/05/05.jpg",
+        "posicion": "top-left",
+        "texto": "Tengo un mal presentimiento"
+      },
+      {
+        "viñetaID": 6,
+        "img": "./img/05/06.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 7,
+        "img": "./img/05/07.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 8,
+        "img": "./img/05/08.jpg",
+        "posicion": "top-left",
+        "texto": "OYE TÚ!!"
+      },
+      {
+        "viñetaID": 9,
+        "img": "./img/05/09.jpg",
+        "posicion": "top-left",
+        "texto": "MUERE!!!"
+      },
+      {
+        "viñetaID": 10,
+        "img": "./img/05/010.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 11,
+        "img": "./img/05/011.jpg",
+        "posicion": "top-left",
+        "texto": "Oh mierda"
+      },
+      {
+        "viñetaID": 12,
+        "img": "./img/05/012.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 13,
+        "img": "./img/05/013.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 14,
+        "img": "./img/05/014.jpg",
+        "posicion": "top-left",
+        "texto": "MAMAAA!!!!"
+      }
+    ]
+  },
+  {
+    "paginaID": 6,
+    "imagenes": [
+      {
+        "viñetaID": 1,
+        "img": "./img/06/01.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 2,
+        "img": "./img/06/02.jpg",
+        "posicion": "top-left",
+        "texto": "CIELO, TIENES QUE SALIR DE AQUÍ YA!!"
+      },
+      {
+        "viñetaID": 3,
+        "img": "./img/06/03.jpg",
+        "posicion": "top-left",
+        "texto": "Iré a buscarte, te lo prometo"
+      },
+      {
+        "viñetaID": 4,
+        "img": "./img/06/04.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 5,
+        "img": "./img/06/05.jpg",
+        "posicion": "top-left",
+        "texto": "CABRÓN!!!"
+      },
+      {
+        "viñetaID": 6,
+        "img": "./img/06/06.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 7,
+        "img": "./img/06/07.jpg",
+        "posicion": "top-left",
+        "texto": "¿Qué demonios eres?"
+      },
+      {
+        "viñetaID": 8,
+        "img": "./img/06/08.jpg",
+        "posicion": "top-left",
+        "texto": "LA MUERTE"
+      },
+      {
+        "viñetaID": 9,
+        "img": "./img/06/09.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 10,
+        "img": "./img/06/010.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 11,
+        "img": "./img/06/011.jpg",
+        "posicion": "top-left",
+        "texto": "Objetivo ELIMINADO"
+      }
+    ]
+  },
+  {
+    "paginaID": 7,
+    "imagenes": [
+      {
+        "viñetaID": 1,
+        "img": "./img/07/01.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 2,
+        "img": "./img/07/02.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 3,
+        "img": "./img/07/03.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 4,
+        "img": "./img/07/04.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 5,
+        "img": "./img/07/05.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 6,
+        "img": "./img/07/06.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 7,
+        "img": "./img/07/07.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 8,
+        "img": "./img/07/08.jpg",
+        "posicion": "top-left",
+        "texto": ""
+      },
+      {
+        "viñetaID": 9,
+        "img": "./img/07/09.jpg",
+        "posicion": "top-left",
+        "texto": "Mi madre a muerto"
+      },
+      {
+        "viñetaID": 10,
+        "img": "./img/07/010.jpg",
+        "posicion": "top-left",
+        "texto": "Mi padre también"
+      },
+      {
+        "viñetaID": 11,
+        "img": "./img/07/011.jpg",
+        "posicion": "top-left",
+        "texto": "¡ME VENGARÉ!!"
+      }
+    ]
+  }
+]
