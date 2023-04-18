@@ -2,6 +2,7 @@ const nightModeBtn = document.querySelector('#dark-mode-btn');
 const audioBtn = document.querySelector('.fa-music, .pause');
 const languageSelector = document.querySelector('#lan-selector');
 const comicContanier = document.querySelector('#comic-container');
+const pageSelector = document.querySelector('#page-number');
 
 let comicText = [];
 
@@ -31,14 +32,22 @@ const getData = () => {
     } 
 }
 
-const renderComic = (text) => {
+const renderComic = (pagesList) => {
     comicContanier.innerHTML = "";
-    text.forEach(e => {
-        comicContanier.innerHTML += `
-            <div>${e.imagenes[2].texto}</div>
-            <div><img src="${e.imagenes[2].img}" alt=""></div>
+    pagesList.forEach(page => {
+        // console.log(page.paginaID);
+        pageSelector.innerHTML += `
+            <div>${page.paginaID}</div>
         `;
-        console.log(e.imagenes[3].texto);
+        page.imagenes.forEach(box => {
+            comicContanier.innerHTML += `
+                <div class="page">
+                    <img src="${box.img}">
+                    <p class="${box.posicion}">${box.texto}</p>
+                </div> 
+            `;
+        });
+        // console.log(e.imagenes[3].texto);
     });
 }
 
@@ -73,6 +82,6 @@ const init = () => {
     // Cada vez que se cambia idioma aplica el evento change a la función getData
     // con change recarga la página cada vez que se selecciona una opción en select
     languageSelector.addEventListener('change', getData)
-    console.log(comicText);
+    getData();
 }
 init();
