@@ -6,10 +6,10 @@
     src: url(../fonts/KGHAPPY.ttf);
 }
 
-
 *{margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; box-sizing: border-box;}
 
 /* DARK MODE STYLES */
+/* ------------------------------------------------------------- */
 .dark{
     background-color: rgb(59, 56, 56);
 }
@@ -63,8 +63,8 @@ header .nav-menu{
 }
 
 /* Cuando se reproduce audio cambia de estilo de pause a play */
-.pause {color: white; transition: .2s ease;}
-.play {color: #8f311c; transition: .2s ease;}
+.pause  {color: white; transition: .2s ease;}
+.play   {color: #8f311c; transition: .2s ease;}
 
 select{
     padding: .2rem .6rem;
@@ -75,11 +75,73 @@ select:hover{
     cursor: pointer;
 }
 
+/* COMIC CONTAINER STYLES */
+/* ------------------------------------------------------------- */
 main {
     width: 70%;
     margin: 2rem auto;
 }
 
+#comic-container div{
+    position: relative;
+}
 #comic-container div img{
     width: 100%;
+}
+
+/* Estilos para texto con posición top-left, top-right, bottom-left de JSON */
+.top-left, .top-right, .bottom-left{
+    position: absolute;
+    width: 400px;
+    height: 160px;
+    font: bold 16px Arial;
+    padding: 2rem 1rem;
+    display: flex;
+    align-items: center;
+    color: rgb(51, 51, 51);
+}
+.top-left {
+    top: 0rem;
+    left: 0rem;
+}
+.top-right {
+    top: 0rem;
+    right: 0rem;
+}
+.bottom-left {
+    bottom: 0;
+    left: 0;
+}
+
+/* Estilos para paginación */
+.hidden {
+    display: none;
+}
+.block {
+    display: block;
+}
+
+/* PAGE SELECTOR STYLES */
+/* ------------------------------------------------------------- */
+#page-selector{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 30%;
+    margin: 1rem auto;
+}
+#page-selector div{
+    padding: .5rem .8rem;
+    transition: .2s ease;
+    border-radius: 50%;
+    font: bolder 18px Arial;
+}
+#page-selector a{
+    text-decoration: none;
+    color: rgb(39, 39, 39);
+}
+#page-selector div:hover{
+    cursor: pointer;
+    background-color: rgba(128, 128, 128, 0.295);
+    border-radius: 50%;
 }

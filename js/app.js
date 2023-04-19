@@ -2,12 +2,13 @@ const nightModeBtn = document.querySelector('#dark-mode-btn');
 const audioBtn = document.querySelector('.fa-music, .pause');
 const languageSelector = document.querySelector('#lan-selector');
 const comicContanier = document.querySelector('#comic-container');
-const pageSelector = document.querySelector('#page-number');
+const pageSelector = document.querySelector('#page-selector');
+const pageContainer = document.querySelector('#page-container');
 
 let comicText = [];
+let currentPage = 1;
 
 const getData = () => {
-    console.log(languageSelector.value);
     if (languageSelector.value === "es") {
         fetch('../data/ES.json')
             .then (response => response.json())
@@ -33,22 +34,55 @@ const getData = () => {
 }
 
 const renderComic = (pagesList) => {
+    // Inicialización de container en vacío
     comicContanier.innerHTML = "";
+    pageSelector.innerHTML = "";
+
+    // Foreach de cada página
     pagesList.forEach(page => {
-        // console.log(page.paginaID);
-        pageSelector.innerHTML += `
-            <div>${page.paginaID}</div>
-        `;
-        page.imagenes.forEach(box => {
-            comicContanier.innerHTML += `
-                <div class="page">
+        // Div dinámico con numeración de páginas
+        pageSelector.innerHTML += `<div onclick="nextPrevPage(event)" value="${page.paginaID}">${page.paginaID}</div>`
+        // Div de página que contiene todas las viñetas por página
+        comicContanier.innerHTML += `
+            <div class="comic-page block" data-id="${page.paginaID}">
+    
+        ${page.imagenes.map(box => {
+            return  `
+                <div class="box${box.boxID}">
                     <img src="${box.img}">
                     <p class="${box.posicion}">${box.texto}</p>
                 </div> 
-            `;
-        });
-        // console.log(e.imagenes[3].texto);
+            `
+        }).join('')}
+        </div> 
+        `
     });
+    comicPagination(currentPage);
+}
+
+const comicPagination = (currentPage) => {
+    // Se consigue el dataset de los divs de página generados en renderComic()
+    // El valor del dataset es el mismo que el número de página
+    // data-id = 1 --> Página 1 | data-id = 2 --> Página 2 ...
+    const comicPage = document.querySelectorAll('[data-id]');
+    comicPage.forEach(e => {
+        // Por defecto currentPage = 1, si el dataset no coincide con este, pasa de display block a none
+      if (e.dataset.id != currentPage) {
+        e.classList.replace("block", "hidden");
+      } else {
+        e.classList.replace("hidden", "block");
+      }
+    });
+}
+
+const nextPrevPage = (event) => {
+    // Se genera evento
+    const divPage = event.target;
+    // Al generar numeración de página en renderComic() establezco por cada div un value="" con valor
+    // de la página. EJ: <div value="1"> Es página 1 (Mirar código desde buscador web para verlo mejor)
+    const currentPage = divPage.getAttribute('value');
+    // Valor de value="" equivale a currentPage y se pasa a comicPagination()
+    comicPagination(currentPage);
 }
 
 const audioPlayer = () => {
@@ -77,11 +111,10 @@ const nightMode = () => {
     });
 }
 
-
 const init = () => {
     // Cada vez que se cambia idioma aplica el evento change a la función getData
     // con change recarga la página cada vez que se selecciona una opción en select
-    languageSelector.addEventListener('change', getData)
+    languageSelector.addEventListener('change', getData);
     getData();
 }
 init();

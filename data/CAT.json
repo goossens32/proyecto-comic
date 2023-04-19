@@ -164,13 +164,13 @@
       },
       {
         "viñetaID": 10,
-        "img": "./img/03/010.jpg",
+        "img": "./img/03/10.jpg",
         "posicion": "top-left",
         "texto": ""
       },
       {
         "viñetaID": 11,
-        "img": "./img/03/011.jpg",
+        "img": "./img/03/11.jpg",
         "posicion": "top-left",
         "texto": "Amor meu, hem de fugir!"
       }
@@ -235,13 +235,13 @@
       },
       {
         "viñetaID": 10,
-        "img": "./img/04/010.jpg",
+        "img": "./img/04/10.jpg",
         "posicion": "top-left",
         "texto": "AJUDAAA, EM MATARÀ!!!"
       },
       {
         "viñetaID": 11,
-        "img": "./img/04/011.jpg",
+        "img": "./img/04/11.jpg",
         "posicion": "bottom-left",
         "texto": "Què és aquesta cosa?"
       }
@@ -306,31 +306,31 @@
       },
       {
         "viñetaID": 10,
-        "img": "./img/05/010.jpg",
+        "img": "./img/05/10.jpg",
         "posicion": "top-left",
         "texto": ""
       },
       {
         "viñetaID": 11,
-        "img": "./img/05/011.jpg",
+        "img": "./img/05/11.jpg",
         "posicion": "top-left",
         "texto": "Oh merda"
       },
       {
         "viñetaID": 12,
-        "img": "./img/05/012.jpg",
+        "img": "./img/05/12.jpg",
         "posicion": "top-left",
         "texto": ""
       },
       {
         "viñetaID": 13,
-        "img": "./img/05/013.jpg",
+        "img": "./img/05/13.jpg",
         "posicion": "top-left",
         "texto": ""
       },
       {
         "viñetaID": 14,
-        "img": "./img/05/014.jpg",
+        "img": "./img/05/14.jpg",
         "posicion": "top-left",
         "texto": "MAMAAA!!!!"
       }
@@ -395,13 +395,13 @@
       },
       {
         "viñetaID": 10,
-        "img": "./img/06/010.jpg",
+        "img": "./img/06/10.jpg",
         "posicion": "top-left",
         "texto": ""
       },
       {
         "viñetaID": 11,
-        "img": "./img/06/011.jpg",
+        "img": "./img/06/11.jpg",
         "posicion": "top-left",
         "texto": "Objectiu ELIMINAT"
       }
@@ -466,13 +466,13 @@
       },
       {
         "viñetaID": 10,
-        "img": "./img/07/010.jpg",
+        "img": "./img/07/10.jpg",
         "posicion": "top-left",
         "texto": "El meu pare també"
       },
       {
         "viñetaID": 11,
-        "img": "./img/07/011.jpg",
+        "img": "./img/07/11.jpg",
         "posicion": "top-left",
         "texto": "ME VENJARÉ!!"
       }
