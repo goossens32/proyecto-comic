@@ -145,3 +145,13 @@ main {
     background-color: rgba(128, 128, 128, 0.295);
     border-radius: 50%;
 }
+
+/* MEDIA-QUERIES */
+/* Para pantallas de portátil 1366x768px */
+@media (max-width: 1400px) {
+    .top-left, .top-right, .bottom-left {
+        padding: 1rem;
+        width: 290px;
+        height: 120px;
+    }
+}
