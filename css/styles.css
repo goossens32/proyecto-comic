@@ -92,10 +92,11 @@ main {
 /* Estilos para texto con posición top-left, top-right, bottom-left de JSON */
 .top-left, .top-right, .bottom-left{
     position: absolute;
-    width: 400px;
-    height: 160px;
+    width: 30%;
+    /* width: 400px; */
+    height: 150px;
     font: bold 16px Arial;
-    padding: 2rem 1rem;
+    padding: 1rem 1rem;
     display: flex;
     align-items: center;
     color: rgb(51, 51, 51);
@@ -112,6 +113,11 @@ main {
     bottom: 0;
     left: 0;
 }
+    /* Estilos para texto */
+    .comic-page div p{
+        height: auto;
+        font-size: 1vw;
+    }
 
 /* Estilos para paginación */
 .hidden {
@@ -150,9 +156,13 @@ main {
 /* Para pantallas de portátil 1366x768px */
 @media (max-width: 1400px) {
     .top-left, .top-right, .bottom-left {
-        padding: 1rem;
-        width: 290px;
+        padding: 0.5rem;
+        width: 30%;
+        /* width: 290px; */
         height: 120px;
         font: bold 14px Arial;
+    }
+    .top-right {
+        padding-left: 1rem;
     }
 }
