@@ -37,7 +37,6 @@ const renderComic = (pagesList) => {
     // Inicialización de container en vacío
     comicContanier.innerHTML = "";
     pageSelector.innerHTML = "";
-
     // Foreach de cada página
     pagesList.forEach(page => {
         // Div dinámico con numeración de páginas
@@ -83,6 +82,9 @@ const nextPrevPage = (event) => {
     const currentPage = divPage.getAttribute('value');
     // Valor de value="" equivale a currentPage y se pasa a comicPagination()
     comicPagination(currentPage);
+    // Cada vez que se cambia de página vuelve al principio del documento
+    // https://stackoverflow.com/questions/1144805/scroll-to-the-top-of-the-page-using-javascript
+    window.scrollTo({top:0, behavior: "smooth"})
 }
 
 const audioPlayer = () => {
