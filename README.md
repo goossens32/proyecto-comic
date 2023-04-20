@@ -1,3 +1,6 @@
+### GRUPO: Amador Contreras, Miquel Coll, Marc Fernández, David Planas, Carlos David Goossens
+#### Link Netlify: https://comic-reader-aw.netlify.app/
+
 - La primera vez crear una carpeta donde se vaya a descargar el fichero.
     1. git init
     2. git remote add origin "link"
